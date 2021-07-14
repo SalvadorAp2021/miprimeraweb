@@ -1,0 +1,26 @@
+main{
+    width: 500px;
+    border: 15px solid yellow;
+    padding: 50px;
+    margin: 20px; 
+    
+   
+
+}
+body{
+
+background-image: url("IMG/fondo\ 2.jpg");
+
+
+
+}
+h3{
+
+color: white;background-color: black;
+
+}
+h2{
+
+ color: black;background-color: blanchedalmond;
+
+}

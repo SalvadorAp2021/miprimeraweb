@@ -1,0 +1,138 @@
+.contenedor{
+    max-width: 950px;
+    margin: 0 auto;
+
+
+}
+.site-header{
+    padding-top: 20px;
+    padding-bottom: 20px ;
+
+
+}
+.barra{
+
+    background-color: cornflowerblue
+      padding:20px 20px 20px 0 ;  
+     
+
+}
+navegacion-principal a{
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+ /*     margin-right: 50px;
+    margin-left: 15px; */ 
+    padding: 20px 60px 20px 20px;
+    display: inline-block;
+    
+    
+    }
+
+    .navegacion-principal a:hover{
+        background-color: orange;
+        transition: 0.7s;
+
+    }
+
+
+
+
+
+
+
+h1{
+
+    color: black;background-color:coral;
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 20px;
+    font-style: normal;
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+.site-header{
+
+     padding-top: 20px;
+     padding-bottom: 20px;
+
+} 
+main{
+    /*width: 500px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;*/ 
+   
+
+}
+p{
+
+   background-color: cadetblue;
+   text-align-last: right;
+
+}
+nav{
+    width: 1200px;
+    border: 15px solid coral;
+    padding: 50px;
+    margin: 0px;
+
+    flex-direction: column-reverse;
+}
+
+#main{
+
+    width: 500px;
+    margin: 10px;
+   float: left;
+   
+   
+
+}
+
+#section{
+
+    /* width: 500px;
+     min-width: 400px;
+     margin: 10px;
+     box-shadow: 1px 1px 10px cornflowerblue;
+     display: inline-block;
+     padding-bottom: 20px; */
+    
+
+
+}
+
+aside{
+
+    width: 300px;
+    border: 15px 
+    padding: 50px;
+    margin: 10px;
+    min-height: 250px; 
+    float : right ;
+    text-decoration: underline;
+    
+}
+
+footer{
+
+  /*  width: 700px;
+    border: 15px solid coral;
+    padding: 50px;
+    margin:*/ 
+
+}
+h2{
+
+color: orange;
+
+}
+article{
+
+   border: bisque;
+
+}
+
+
